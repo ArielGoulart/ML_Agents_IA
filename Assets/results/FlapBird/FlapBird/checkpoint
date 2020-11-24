@@ -1,0 +1,6 @@
+model_checkpoint_path: "FlapBird-5000361.ckpt"
+all_model_checkpoint_paths: "FlapBird-3499992.ckpt"
+all_model_checkpoint_paths: "FlapBird-3999930.ckpt"
+all_model_checkpoint_paths: "FlapBird-4499884.ckpt"
+all_model_checkpoint_paths: "FlapBird-4999361.ckpt"
+all_model_checkpoint_paths: "FlapBird-5000361.ckpt"

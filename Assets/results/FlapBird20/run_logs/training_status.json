@@ -1,0 +1,29 @@
+{
+    "FlapBird": {
+        "checkpoints": [
+            {
+                "steps": 499938,
+                "file_path": "results\\FlapBird20\\FlapBird\\FlapBird-499938.nn",
+                "reward": 27.38261092227438,
+                "creation_time": 1606057812.9517603
+            },
+            {
+                "steps": 500826,
+                "file_path": "results\\FlapBird20\\FlapBird\\FlapBird-500826.nn",
+                "reward": 28.362965274740148,
+                "creation_time": 1606057814.8546143
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500826,
+            "file_path": "results\\FlapBird20\\FlapBird.nn",
+            "reward": 28.362965274740148,
+            "creation_time": 1606057814.8546143
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

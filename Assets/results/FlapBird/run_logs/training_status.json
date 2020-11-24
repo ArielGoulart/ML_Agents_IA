@@ -1,0 +1,47 @@
+{
+    "FlapBird": {
+        "checkpoints": [
+            {
+                "steps": 3499992,
+                "file_path": "results\\FlapBird\\FlapBird\\FlapBird-3499992.nn",
+                "reward": 9.800002384185792,
+                "creation_time": 1606235256.3156867
+            },
+            {
+                "steps": 3999930,
+                "file_path": "results\\FlapBird\\FlapBird\\FlapBird-3999930.nn",
+                "reward": 4.06666914621989,
+                "creation_time": 1606235737.5630345
+            },
+            {
+                "steps": 4499884,
+                "file_path": "results\\FlapBird\\FlapBird\\FlapBird-4499884.nn",
+                "reward": null,
+                "creation_time": 1606236219.1168518
+            },
+            {
+                "steps": 4999361,
+                "file_path": "results\\FlapBird\\FlapBird\\FlapBird-4999361.nn",
+                "reward": null,
+                "creation_time": 1606236703.4184113
+            },
+            {
+                "steps": 5000361,
+                "file_path": "results\\FlapBird\\FlapBird\\FlapBird-5000361.nn",
+                "reward": null,
+                "creation_time": 1606236705.4495065
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000361,
+            "file_path": "results\\FlapBird\\FlapBird.nn",
+            "reward": null,
+            "creation_time": 1606236705.4495065
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}
